@@ -1,2 +1,4 @@
 ashrae-energy-prediction/
 ashrae-energy-prediction.zip
+data/df_test_combined.parquet
+data/df_train_combined.parquet
